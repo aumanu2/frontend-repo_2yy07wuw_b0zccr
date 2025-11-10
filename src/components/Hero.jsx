@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative min-h-[80vh] flex items-center justify-center overflow-hidden bg-[#F7F5F2]">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/I5S4e5yWb3s4PaCt/scene.splinecode"
+          scene="https://prod.spline.design/EF7JOSsHLk16Tlw9/scene.splinecode"
           style={{ width: "100%", height: "100%" }}
         />
       </div>
